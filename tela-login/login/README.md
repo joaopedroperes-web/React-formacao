@@ -1,6 +1,6 @@
 # React-formacao
 
-Este desafio tinha como objetivo aprofundar os conhecimentos em Typescript adiquiridos durantes as aulas, o desafio consistia em fazer uma tela de login fazendo o uso completamente de React e Typescript.
+Este desafio tinha como objetivo aprofundar os conhecimentos em Typescript adquiridos durantes as aulas, o desafio consistia em fazer uma tela de login fazendo o uso completamente de React e Typescript.
 
 ### Link dio:
 [Dio](https://web.dio.me/home)
