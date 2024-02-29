@@ -1,3 +1,10 @@
+# React-formacao
+
+Este desafio tinha como objetivo aprofundar os conhecimentos em React, styled-componets e hooks adquiridos durantes as aulas, o desafio consistia em fazer a tela de cadastro da platafoma DIO.
+
+### Link dio:
+[Dio](https://web.dio.me/home)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
